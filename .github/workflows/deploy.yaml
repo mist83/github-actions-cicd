@@ -1,4 +1,4 @@
-name: Deploy to AWS (Dev Environment)u
+name: Deploy to AWS (Dev Environment)
 
 on:
   push:
