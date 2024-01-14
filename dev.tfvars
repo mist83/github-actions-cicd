@@ -1,2 +1,2 @@
-s3_bucket_name       = "my-dev-bucket"
-dynamodb_table_name  = "my-dev-table"
+s3_bucket_name       = "vizioi-mullman-example"
+dynamodb_table_name  = "vizioi-mullman-example"
